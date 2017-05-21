@@ -1,0 +1,41 @@
+Mono path[0] = 'F:/Unity Projects/The Clown's Quest/The Clown's Quest_Data/Managed'
+Mono path[1] = 'F:/Unity Projects/The Clown's Quest/The Clown's Quest_Data/Mono'
+Mono config path = 'F:/Unity Projects/The Clown's Quest/The Clown's Quest_Data/Mono/etc'
+PlayerConnection initialized from F:/Unity Projects/The Clown's Quest/The Clown's Quest_Data (debug = 0)
+PlayerConnection initialized network socket : 0.0.0.0 55481
+Multi-casting "[IP] 192.168.100.12 [Port] 55481 [Flags] 2 [Guid] 650832613 [EditorId] 1637304731 [Version] 1048832 [Id] WindowsPlayer(DESKTOP-R5ODP6T) [Debug] 0" to [225.0.0.222:54997]...
+Started listening to [0.0.0.0:55481]
+PlayerConnection already initialized - listening to [0.0.0.0:55481]
+Initialize engine version: 5.5.1f1 (88d00a7498cd)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: Intel(R) HD Graphics 520 (ID=0x1916)
+    Vendor:   Intel
+    VRAM:     1126 MB
+    Driver:   20.19.15.4483
+Begin MonoManager ReloadAssembly
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+- Completed reload, in  0.255 seconds
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: F:\Unity Projects\The Clown's Quest\The Clown's Quest_Data\Managed\System.dll (this message is harmless)
+desktop: 1366x768 60Hz; virtual: 1366x768 at 0,0
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 4.304217 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 39c8 -> priority: 1 

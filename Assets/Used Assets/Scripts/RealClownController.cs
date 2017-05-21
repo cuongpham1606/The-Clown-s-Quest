@@ -37,7 +37,7 @@ namespace UnityStandardAssets.Characters.FirstPerson
 			this.transform.rotation = Quaternion.Slerp (transform.rotation, target, 0.1f); 
 			anim.SetTrigger ("isScaring");
 			yield return new WaitForSeconds (2f);
-			Application.LoadLevel ("Level1");
+			Application.LoadLevel (Application.loadedLevel);
 		}
 
 		private IEnumerator DollReveal(){
