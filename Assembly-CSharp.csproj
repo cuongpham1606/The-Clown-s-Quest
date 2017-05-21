@@ -46,8 +46,10 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\BackToMainMenu.cs" />
      <Compile Include="Assets\DeadZone.cs" />
      <Compile Include="Assets\NextLevel.cs" />
+     <Compile Include="Assets\StartGame.cs" />
      <Compile Include="Assets\Used Assets\Scripts\CamMouseLook.cs" />
      <Compile Include="Assets\Used Assets\Scripts\CharacterController.cs" />
      <Compile Include="Assets\Used Assets\Scripts\FakeClownController.cs" />
