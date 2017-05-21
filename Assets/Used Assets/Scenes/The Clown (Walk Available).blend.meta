@@ -1,0 +1,1265 @@
+fileFormatVersion: 2
+guid: 88dd72ed0be3771488df6f4bd1c3bb63
+timeCreated: 1495252414
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Armature
+    100002: Base_Of_Hat_L
+    100004: Base_Of_Hat_R
+    100006: Base_Of_Index_Finger_L
+    100008: Base_Of_Index_Finger_R
+    100010: Base_Of_Middle_Finger_L
+    100012: Base_Of_Middle_Finger_R
+    100014: Base_Of_Pinkie_L
+    100016: Base_Of_Pinkie_R
+    100018: Base_Of_Ring_Finger_L
+    100020: Base_Of_Ring_Finger_R
+    100022: Base_Of_Thumb_L
+    100024: Base_Of_Thumb_R
+    100026: Chest
+    100028: Clown
+    100030: Foot_L
+    100032: Foot_R
+    100034: Head
+    100036: Hips
+    100038: Leg_IK_L
+    100040: Leg_IK_R
+    100042: Lower_Hand_L
+    100044: Lower_Hand_R
+    100046: Lower_Leg_L
+    100048: Lower_Leg_R
+    100050: Middle_Of_Hat_L
+    100052: Middle_Of_Hat_R
+    100054: Middle_Of_Index_Finger_L
+    100056: Middle_Of_Index_Finger_R
+    100058: Middle_Of_Middle_Finger_L
+    100060: Middle_Of_Middle_Finger_R
+    100062: Middle_Of_Pinkie_L
+    100064: Middle_Of_Pinkie_R
+    100066: Middle_Of_Ring_Finger_L
+    100068: Middle_Of_Ring_Finger_R
+    100070: Middle_Of_Thumb_L
+    100072: Middle_Of_Thumb_R
+    100074: Mouth_L
+    100076: Mouth_R
+    100078: Neck
+    100080: Root
+    100082: Stomach
+    100084: //RootNode
+    100086: Tip_Of_Hat_L
+    100088: Tip_Of_Hat_R
+    100090: Tip_Of_Index_Finger_L
+    100092: Tip_Of_Index_Finger_R
+    100094: Tip_Of_Middle_Finger_L
+    100096: Tip_Of_Middle_Finger_R
+    100098: Tip_Of_Pinkie_L
+    100100: Tip_Of_Pinkie_R
+    100102: Tip_Of_Ring_Finger_L
+    100104: Tip_Of_Ring_Finger_R
+    100106: Tip_Of_Thumb_L
+    100108: Tip_Of_Thumb_R
+    100110: Toes_L
+    100112: Toes_R
+    100114: Upper_Hand_L
+    100116: Upper_Hand_R
+    100118: Upper_Leg_L
+    100120: Upper_Leg_R
+    400000: Armature
+    400002: Base_Of_Hat_L
+    400004: Base_Of_Hat_R
+    400006: Base_Of_Index_Finger_L
+    400008: Base_Of_Index_Finger_R
+    400010: Base_Of_Middle_Finger_L
+    400012: Base_Of_Middle_Finger_R
+    400014: Base_Of_Pinkie_L
+    400016: Base_Of_Pinkie_R
+    400018: Base_Of_Ring_Finger_L
+    400020: Base_Of_Ring_Finger_R
+    400022: Base_Of_Thumb_L
+    400024: Base_Of_Thumb_R
+    400026: Chest
+    400028: Clown
+    400030: Foot_L
+    400032: Foot_R
+    400034: Head
+    400036: Hips
+    400038: Leg_IK_L
+    400040: Leg_IK_R
+    400042: Lower_Hand_L
+    400044: Lower_Hand_R
+    400046: Lower_Leg_L
+    400048: Lower_Leg_R
+    400050: Middle_Of_Hat_L
+    400052: Middle_Of_Hat_R
+    400054: Middle_Of_Index_Finger_L
+    400056: Middle_Of_Index_Finger_R
+    400058: Middle_Of_Middle_Finger_L
+    400060: Middle_Of_Middle_Finger_R
+    400062: Middle_Of_Pinkie_L
+    400064: Middle_Of_Pinkie_R
+    400066: Middle_Of_Ring_Finger_L
+    400068: Middle_Of_Ring_Finger_R
+    400070: Middle_Of_Thumb_L
+    400072: Middle_Of_Thumb_R
+    400074: Mouth_L
+    400076: Mouth_R
+    400078: Neck
+    400080: Root
+    400082: Stomach
+    400084: //RootNode
+    400086: Tip_Of_Hat_L
+    400088: Tip_Of_Hat_R
+    400090: Tip_Of_Index_Finger_L
+    400092: Tip_Of_Index_Finger_R
+    400094: Tip_Of_Middle_Finger_L
+    400096: Tip_Of_Middle_Finger_R
+    400098: Tip_Of_Pinkie_L
+    400100: Tip_Of_Pinkie_R
+    400102: Tip_Of_Ring_Finger_L
+    400104: Tip_Of_Ring_Finger_R
+    400106: Tip_Of_Thumb_L
+    400108: Tip_Of_Thumb_R
+    400110: Toes_L
+    400112: Toes_R
+    400114: Upper_Hand_L
+    400116: Upper_Hand_R
+    400118: Upper_Leg_L
+    400120: Upper_Leg_R
+    4300000: Clown
+    7400000: Default Take
+    7400002: Doll_Fall-off
+    7400004: Idle
+    7400006: RunAnim
+    7400008: ScareAnim
+    7400010: T-Pose
+    7400012: Turn_Around
+    7400014: WalkAnim
+    7400016: Idle0
+    7400018: Idle0
+    7400020: Run0
+    7400022: Doll_Fall-off0
+    7400024: Walk0
+    7400026: Idle0
+    7400028: IdleAnim
+    9500000: //RootNode
+    13700000: Clown
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: <Root Transform>
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations:
+    - serializedVersion: 16
+      name: Doll_Fall-off
+      takeName: Doll_Fall-off
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: ScareAnim
+      takeName: Scare
+      firstFrame: 0
+      lastFrame: 59
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: IdleAnim
+      takeName: Idle
+      firstFrame: 0
+      lastFrame: 99
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: T-Pose
+      takeName: T-Pose
+      firstFrame: 0
+      lastFrame: 1
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: RunAnim
+      takeName: Run
+      firstFrame: 0
+      lastFrame: 12
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: WalkAnim
+      takeName: Walk
+      firstFrame: 0
+      lastFrame: 24
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 1
+      loopBlend: 1
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    - serializedVersion: 16
+      name: Turn_Around
+      takeName: Turn_Around
+      firstFrame: 0
+      lastFrame: 29
+      wrapMode: 0
+      orientationOffsetY: 0
+      level: 0
+      cycleOffset: 0
+      loop: 0
+      hasAdditiveReferencePose: 0
+      loopTime: 0
+      loopBlend: 0
+      loopBlendOrientation: 0
+      loopBlendPositionY: 0
+      loopBlendPositionXZ: 0
+      keepOriginalOrientation: 0
+      keepOriginalPositionY: 1
+      keepOriginalPositionXZ: 0
+      heightFromFeet: 0
+      mirror: 0
+      bodyMask: 01000000010000000100000001000000010000000100000001000000010000000100000001000000010000000100000001000000
+      curves: []
+      events: []
+      transformMask:
+      - path: 
+        weight: 1
+      - path: Armature
+        weight: 1
+      - path: Armature/Root
+        weight: 1
+      - path: Armature/Root/Hips
+        weight: 1
+      - path: Armature/Root/Hips/Stomach
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_L/Middle_Of_Hat_L/Tip_Of_Hat_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Base_Of_Hat_R/Middle_Of_Hat_R/Tip_Of_Hat_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Neck/Head/Mouth_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Index_Finger_L/Middle_Of_Index_Finger_L/Tip_Of_Index_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Middle_Finger_L/Middle_Of_Middle_Finger_L/Tip_Of_Middle_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Pinkie_L/Middle_Of_Pinkie_L/Tip_Of_Pinkie_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Ring_Finger_L/Middle_Of_Ring_Finger_L/Tip_Of_Ring_Finger_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_L/Lower_Hand_L/Base_Of_Thumb_L/Middle_Of_Thumb_L/Tip_Of_Thumb_L
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Index_Finger_R/Middle_Of_Index_Finger_R/Tip_Of_Index_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Middle_Finger_R/Middle_Of_Middle_Finger_R/Tip_Of_Middle_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Pinkie_R/Middle_Of_Pinkie_R/Tip_Of_Pinkie_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Ring_Finger_R/Middle_Of_Ring_Finger_R/Tip_Of_Ring_Finger_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Stomach/Chest/Upper_Hand_R/Lower_Hand_R/Base_Of_Thumb_R/Middle_Of_Thumb_R/Tip_Of_Thumb_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_L/Lower_Leg_L
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R
+        weight: 1
+      - path: Armature/Root/Hips/Upper_Leg_R/Lower_Leg_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_L/Foot_L/Toes_L
+        weight: 1
+      - path: Armature/Root/Leg_IK_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R
+        weight: 1
+      - path: Armature/Root/Leg_IK_R/Foot_R/Toes_R
+        weight: 1
+      - path: Clown
+        weight: 1
+      maskType: 3
+      maskSource: {instanceID: 0}
+      additiveReferencePoseFrame: 0
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
