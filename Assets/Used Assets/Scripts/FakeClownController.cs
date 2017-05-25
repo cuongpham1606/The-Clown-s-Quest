@@ -14,12 +14,13 @@ public class FakeClownController : MonoBehaviour {
 	private BoxCollider boxCollider; 
 
 	private bool isMoving = false;
-
+	private AudioSource audio;
 
 	void Start () {
 		anim = GetComponent<Animator> ();
 		boxCollider = GetComponent<BoxCollider> ();
 		Vector3 startPos = transform.position;
+		audio = GetComponent<AudioSource> ();
 	}
 
 	void Update(){
@@ -34,8 +35,13 @@ public class FakeClownController : MonoBehaviour {
 
 		if (canRun) {
 			anim.SetTrigger ("isRunning");
+			audio.clip = Resources.Load<AudioClip> ("Footstep01");
+			audio.pitch = 2;
+			audio.Play ();
 		} else {
 			anim.SetTrigger ("isWalking");
+			audio.clip = Resources.Load<AudioClip> ("Footstep01");
+			audio.Play ();
 		}
 		isMoving = true;
 		StartCoroutine (DeleteObject ());

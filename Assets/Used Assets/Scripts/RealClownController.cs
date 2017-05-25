@@ -12,16 +12,21 @@ namespace UnityStandardAssets.Characters.FirstPerson
 		public Animator anim;
 		private FirstPersonController firstPersonController;
 		private BoxCollider boxCollider;
+		private AudioSource audio;
+
 
 		// Use this for initialization
 		void Start () {
 			anim = GetComponent<Animator> ();
 			firstPersonController = player.GetComponent<FirstPersonController> ();
 			boxCollider = GetComponent<BoxCollider> ();
+			audio = GetComponent<AudioSource> ();
 		}
 
 		void OnTriggerEnter (Collider other){
 			anim.SetTrigger ("isTurningAround");
+			audio.clip = Resources.Load<AudioClip> ("ClownRevealSound");
+			audio.Play ();
 			if (isReal) {
 				StartCoroutine (Die ());
 			} else
@@ -36,6 +41,8 @@ namespace UnityStandardAssets.Characters.FirstPerson
 			Quaternion target = Quaternion.Euler (0, rotateAngle, 0);
 			this.transform.rotation = Quaternion.Slerp (transform.rotation, target, 0.1f); 
 			anim.SetTrigger ("isScaring");
+			audio.clip = Resources.Load<AudioClip> ("Clown's Laugh");
+			audio.Play ();
 			yield return new WaitForSeconds (2f);
 			Application.LoadLevel (Application.loadedLevel);
 		}
